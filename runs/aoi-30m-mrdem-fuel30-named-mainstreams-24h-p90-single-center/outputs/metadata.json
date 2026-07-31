@@ -1,0 +1,15 @@
+{
+  "name": "aoi-30m-mrdem-fuel30-named-mainstreams-24h-p90-single-center",
+  "display_name": "AOI - named main streams and lakes, 30 m fuel, 24 h P90 central ignition",
+  "completed_runs": 1,
+  "requested_runs": 1,
+  "mean_burned_cells": 10666.0,
+  "max_burned_cells": 10666,
+  "cells_with_nonzero_probability": 10666,
+  "maximum_probability": 1.0,
+  "cell_size_m": 30.0,
+  "analysis_crs": "EPSG:3005",
+  "scenario": "Single central ignition; named Freshwater Atlas main streams and all lakes assigned water fuel; native 30 m NRCan fuel and MRDEM terrain; 24 hourly Smallwood records from 20 August 2018, the observed day nearest the June-August 2016-2025 daily noon FWI P90",
+  "aggregation_run_limit": null,
+  "partial_aggregation": false
+}
